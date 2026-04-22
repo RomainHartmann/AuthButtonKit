@@ -17,14 +17,6 @@ dev_dependencies:
   flutter_lints: ^2.0.0
 
 flutter:
-  plugin:
-    platforms:
-      android:
-        package: com.leromino.auth_button_kit
-        pluginClass: AuthButtonKitPlugin
-      ios:
-        pluginClass: AuthButtonKitPlugin
-
   assets:
     - assets/logos/
     - assets/logos/dark/

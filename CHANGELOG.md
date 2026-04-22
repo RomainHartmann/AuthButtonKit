@@ -1,3 +1,8 @@
+## [1.1.7] - 2026.04.22
+
+- Converted from Flutter plugin to package for broader platform support
+- Fixed deprecated Color API usage
+
 ## [1.1.6] - 2024.04.04
 
 - Added letterSpacing

@@ -1,6 +1,6 @@
 name: auth_button_kit
 description: Awesome custamisable buttons that help you to build a beautiful login page in just a few clicks
-version: 1.1.6
+version: 1.1.7
 homepage: https://github.com/LeRomino/AuthButtonKit
 
 environment:
